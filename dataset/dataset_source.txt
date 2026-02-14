@@ -1,0 +1,21 @@
+Dataset Name: Global Superstore Sales Dataset
+
+Source: Kaggle
+
+Download Link:
+https://www.kaggle.com/datasets/sirajahmad/global-superstore
+
+Description:
+The Dataset contains retail transaction records including customer details, product categories, sales revenue, profit, discount, shipping information, and regional market performance.
+
+Key Columns:
+- Order ID
+- Order Date
+- Customer Name 
+- Segment
+- Category / Sub-Category
+- Sales
+- Profit
+- Discount
+- Region / Country
+- Ship Mode
