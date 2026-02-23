@@ -79,10 +79,14 @@ The project follows a structured Business Intelligence pipeline similar to real-
 - Verified column consistency and corrected data types
 - Created time-based fields such as Year and Month for trend analysis
 
+![Data Load](images/phase1_data_load.png)
+
 ### Phase 2: Data Cleaning and Transformation
 - Cleaned raw transactional data using **Power Query Editor**
 - Removed blank records and ensured proper formatting
 - Standardized numerical and date fields for accurate reporting
+
+![Power Query Cleaning](images/phase2_power_query_cleaning.png)
 
 ### Phase 3: KPI Development using DAX
 Developed key analytical measures, including:
@@ -93,8 +97,11 @@ Developed key analytical measures, including:
 - Total Customers
 - Profit Margin %
 - Average Order Value
+- Monthly Sales
 
 These KPIs form the foundation of executive-level reporting.
+
+![DAX Measures](images/phase3_dax_measure.png)
 
 ### Phase 4: Dashboard Design and Visualization
 Designed a professional multi-page interactive dashboard containing:
@@ -106,6 +113,8 @@ Designed a professional multi-page interactive dashboard containing:
 - Shipping and Delivery Efficiency
 - Discount and Profitability Impact
 - Forecasting and Trend Analytics
+
+![Dashboard Page](images/phase4_dashboard_page.png)
 
 ### Phase 5: Portfolio Documentation
 - Captured dashboard output screenshots
