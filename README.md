@@ -108,11 +108,9 @@ Designed a professional multi-page interactive dashboard containing:
 
 - Executive Overview
 - Product Performance Insights
-- Customer Segmentation Analysis
-- Regional Market Contribution
-- Shipping and Delivery Efficiency
-- Discount and Profitability Impact
-- Forecasting and Trend Analytics
+- Returns & Customer Insights
+- Customer Base Breakdown
+- Executive Insights & Strategic Overview
 
 ![Dashboard Page](images/phase4_dashboard_page.png)
 
