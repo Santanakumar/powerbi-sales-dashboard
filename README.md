@@ -121,6 +121,26 @@ Designed a professional multi-page interactive dashboard containing:
 
 ## RESULTS
 
+### Page 1: Executive Overview
+
+![Executive Overview](images/01_executive_overview.png)
+
+### Page 2: Product Performance Insights
+
+![Product Performance Insights](images/02_product_performance_insights.png)
+
+### Page 3: Returns & Customer Insights
+
+![Returns & Customer Insights](images/03_returns_and_customer_insights.png)
+
+### Page 4: Customer Base Breakdown
+
+![Customer Base Breakdown](images/04_customer_base_breakdown.png)
+
+### Page 5: Executive Insights & Strategic Overview
+
+![Executive Insights & Strategic Overview](images/05_executive_insights_and_strategic_overview.png)
+
 ## KEY SKILLS DEMONSTRATED
 
 The project showcasesthe following core Data Analyst and BI skills:
