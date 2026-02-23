@@ -141,6 +141,14 @@ Designed a professional multi-page interactive dashboard containing:
 
 ![Executive Insights & Strategic Overview](images/05_executive_insights_and_strategic_overview.png)
 
+## KEY INSIGHTS DERIVED
+
+- Technology category contributes highest profit.
+- Certain regions drive majority of revenue.
+- Some segments have higher return rates.
+- Profitability varies significantly by shipping mode.
+- A small percentage of customers contribute large revenue.
+
 ## KEY SKILLS DEMONSTRATED
 
 The project showcasesthe following core Data Analyst and BI skills:
